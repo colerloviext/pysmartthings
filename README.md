@@ -16,7 +16,7 @@ Asynchronous Python client for SmartThings.
 
 This package allows you to fetch data from SmartThings.
 
-## Installation
+## Installation LMAO
 
 ```bash
 pip install pysmartthings
